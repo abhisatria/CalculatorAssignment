@@ -74,6 +74,5 @@
             android:layout_marginRight="30dp"
             android:text="Calculate"
             android:layout_marginTop="15dp"
-            android:layout_gravity="right"
-            android:onClick="calculate"/>
+            android:layout_gravity="right" />
 </LinearLayout>
